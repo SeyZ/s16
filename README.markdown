@@ -1,1 +1,1 @@
-My simple style for LaTeX
+## My simple style for LaTeX ##
